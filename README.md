@@ -1,1 +1,1 @@
-# Shopwarts
+This project has been created with the help of React js , Html and bootstrap. I have administered the utility to add, delete and fetch items into a vitual entity, namely cart. Use of filter methods have been made to categorically fetch data as per the choice of the user. This project is fetching data from a fakeapi for a clothing brand. I had added a carousel as the home page of the site , however for some reason it is not showing up on the hosted site but runs smoothly on local server. The site is made responsive as well.
