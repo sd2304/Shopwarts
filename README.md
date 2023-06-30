@@ -1,1 +1,22 @@
-This project has been created with the help of React js , Html and bootstrap. I have administered the utility to add, delete and fetch items into a vitual entity, namely cart. Use of filter methods have been made to categorically fetch data as per the choice of the user. This project is fetching data from a fakeapi for a clothing brand. I had added a carousel as the home page of the site , however for some reason it is not showing up on the hosted site but runs smoothly on local server. The site is made responsive as well.
+I have created a responsive e-commerce website using React js framework, bootstrap ,redux and HTML. The site is fully responsive and can work on any aspect ratio. Filter method has been used to allow the user to choose their preference for the item they want to buy. You will be able to add or delete items from the virtual entity called "cart'. Bootstrap has been used for the styling and format of the site. The site is fetching data from a fake api - https://fakestoreapi.com/
+
+##To run locally
+Clone the project
+git clone https://github.com/sd2304/Shopwarts
+
+Go to the project directory
+cd Shopwarts
+
+Install dependencies
+npm install
+
+Start the server
+npm start
+  
+##Tech Stack
+React
+Redux
+Bootstrap
+
+##Feedback
+I would love to hear back, please reach out to me on (https://sd2304.github.io/#contact)
